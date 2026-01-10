@@ -1,4 +1,4 @@
-# Discord C2 Simulation - Red Team Research Porject
+# Discord C2 Simulation - Red Team Research Project
 
 ## Project Overview
 This project is a controlled red-team simulation designed to study how modern commodity malware abuses legitimate platforms (Discord) as a Command-and-Control (C2) channel.
