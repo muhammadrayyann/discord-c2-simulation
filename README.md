@@ -1,6 +1,6 @@
-# Discord-Based C2 Simulation (Malware Course Project)
+# Discord-Based C2 Simulation
 
-## Project Overview
+## 1. Project Overview
 
 This project was developed to study how legitimate software platforms can be abused as Command-and-Control (C2) infrastructure.
 
@@ -9,13 +9,17 @@ All experiments were performed strictly in a controlled lab environment using sy
 
 The goal of this project was learning and risk awareness, not real-world exploitation.
 
-## Purpose of the Project
+---
+
+## 2. Purpose of the Project
 
 - Understand how legitimate services can be misused for malicious purposes
 - Study modern attacker tradecraft, especially used by APT groups
 - Gain hands-on exposure to malware C2 concepts in a safe environment
 
-## High-Level Concept
+---
+
+## 3. High-Level Concept
 
 At a high level, the project works as follows:
 
@@ -28,7 +32,9 @@ At a high level, the project works as follows:
 
 ⚠️ No source code, binaries, or weaponized artifacts are shared in this repository.
 
-## Why Discord as a C2 Channel?
+---
+
+## 4. Why Discord as a C2 Channel?
 
 This project demonstrates a key concept in modern malware design:
 
@@ -43,7 +49,9 @@ Discord offers:
 
 Because the connection is outbound and encrypted, many security controls treat it as legitimate activity.
 
-## Simulated Post-Connection Capabilities
+---
+
+## 5. Simulated Post-Connection Capabilities
 
 Once a connection is established (in our lab setup), the following capability categories were explored for learning purposes:
 
@@ -56,7 +64,9 @@ Once a connection is established (in our lab setup), the following capability ca
 
 These capabilities were studied only to understand attacker behavior, not to deploy real-world threats.
 
-## Defensive & Security Takeaways
+---
+
+## 6. Defensive & Security Takeaways
 
 Through this project, we learned that:
 
@@ -68,6 +78,8 @@ Through this project, we learned that:
 
 This aligns closely with techniques used by Advanced Persistent Threat (APT) groups.
 
+---
+
 ## ⚠️ Ethical Disclaimer
 
 This project was created strictly for academic purposes:
@@ -77,4 +89,4 @@ This project was created strictly for academic purposes:
 - No real victims were targeted
 - No malicious artifacts are distributed
 
-This repository exists only for documentation, awareness, and learning.
+> This repository exists only for documentation, awareness, and learning.
