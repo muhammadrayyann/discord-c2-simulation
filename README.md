@@ -80,6 +80,12 @@ This aligns closely with techniques used by Advanced Persistent Threat (APT) gro
 
 ---
 
+## Acknowledgements
+
+Project developed in collaboration with [Arib Ali](https://github.com/AribAli110)
+
+---
+
 ## ⚠️ Ethical Disclaimer
 
 This project was created strictly for academic purposes:
