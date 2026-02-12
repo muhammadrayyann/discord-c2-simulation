@@ -82,7 +82,7 @@ This aligns closely with techniques used by Advanced Persistent Threat (APT) gro
 
 ## 7. Project Snippets
 
-![image1.png](/Snippets/1.png)
+<!-- ![image1.png](/Snippets/1.png)
 ![image2.png](Snippets/2.png)
 ![image3.png](Snippets/3.png)
 ![image4.png](Snippets/4.png)
@@ -94,7 +94,7 @@ This aligns closely with techniques used by Advanced Persistent Threat (APT) gro
 ![image10.png](Snippets/10.png)
 ![image11.png](Snippets/11.png)
 ![image12.png](Snippets/12.png)
-![image13.png](Snippets/13.png)
+![image13.png](Snippets/13.png) -->
 
 ---
 
