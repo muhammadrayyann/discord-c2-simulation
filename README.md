@@ -82,19 +82,19 @@ This aligns closely with techniques used by Advanced Persistent Threat (APT) gro
 
 ## 7. Project Snippets
 
-[image1.png](snippets/image1.png)
-[image2.png](snippets/image2.png)
-[image3.png](snippets/image3.png)
-[image4.png](snippets/image4.png)
-[image5.png](snippets/image5.png)
-[image6.png](snippets/image6.png)
-[image7.png](snippets/image7.png)
-[image8.png](snippets/image8.png)
-[image9.png](snippets/image9.png)
-[image10.png](snippets/image10.png)
-[image11.png](snippets/image11.png)
-[image12.png](snippets/image12.png)
-[image13.png](snippets/image13.png)
+[image1.png](snippets/1.png)
+[image2.png](snippets/2.png)
+[image3.png](snippets/3.png)
+[image4.png](snippets/4.png)
+[image5.png](snippets/5.png)
+[image6.png](snippets/6.png)
+[image7.png](snippets/7.png)
+[image8.png](snippets/8.png)
+[image9.png](snippets/9.png)
+[image10.png](snippets/10.png)
+[image11.png](snippets/11.png)
+[image12.png](snippets/12.png)
+[image13.png](snippets/13.png)
 
 ---
 
