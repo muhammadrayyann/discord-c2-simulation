@@ -80,6 +80,12 @@ This aligns closely with techniques used by Advanced Persistent Threat (APT) gro
 
 ---
 
+## 7. Project Snippets
+
+(image1.png)[snippets/image1.png]
+
+---
+
 ## Acknowledgements
 
 Project developed in collaboration with [Arib Ali](https://github.com/AribAli110)
